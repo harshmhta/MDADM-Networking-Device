@@ -1,6 +1,6 @@
 # MDADM Networking Device
 
-This project is a part of a 5 part project. This is the final part. Check the PDFs in the project directory for a detailed README.
+This project is a part of a 5 part project. This is the final part. Check the PDF in the project directory for a detailed README.
 
 ## Academic Integrity Statement
 
